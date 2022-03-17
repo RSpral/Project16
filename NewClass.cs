@@ -10,6 +10,7 @@ namespace Project16
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("HHelp me!");
             Console.WriteLine("Hello world!");
             Console.WriteLine("Novo"); Console.WriteLine("Maju");
         }
