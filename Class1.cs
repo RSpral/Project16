@@ -11,7 +11,7 @@ namespace Project16
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
-            Console.WriteLine("Novo");
+            Console.WriteLine("Novo");Console.WriteLine("Maju");
         }
     }
 }
